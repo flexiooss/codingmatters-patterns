@@ -1,4 +1,4 @@
-package org.codingmatters.patterns;
+package org.codingmatters.patterns.firstof;
 
 import java.util.LinkedList;
 import java.util.Optional;

@@ -36,12 +36,6 @@
         <developerConnection>scm:git:git@github.com:flexiooss/codingmatters-patterns.git</developerConnection>
         <url>git@github.com:flexiooss/codingmatters-patterns.git</url>
     </scm>
-    
-    <dependencyManagement>
-        <dependencies>
-
-        </dependencies>
-    </dependencyManagement>
 
     <repositories>
         <repository>
